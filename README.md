@@ -62,7 +62,7 @@ I addressed the "black date icon" visibility issue across browsers using CSS fil
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/spotter-flights.git
+git clone https://github.com/Chiarinze/spotter-flights.git
 ```
 
 2. Install dependencies:
