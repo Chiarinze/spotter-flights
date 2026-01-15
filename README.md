@@ -4,7 +4,7 @@ A high-performance, responsive flight search engine built with React, TypeScript
 
 ## 🚀 Live Demo
 
-https://www.google.com/travel/flights
+https://spotter-flights-mu.vercel.app/
 
 ## ✨ Key Features
 
